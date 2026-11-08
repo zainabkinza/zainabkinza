@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/zainabkinza">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Zainab%20Kinza" alt="Hello! I&#39;m Zainab Kinza" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c690ad&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Zainab%20Kinza" alt="Hello! I&#39;m Zainab Kinza" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Exploring%20Artificial%20Intelligence%2C%20Machine%20Learning%20%26%20Full-Stack;Passionate%20about%20Smart%20Agents%20%2C%20Hackathons%20%26%20Building%20cool%20softwares" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Exploring%20Artificial%20Intelligence%2C%20Machine%20Learning%20%26%20Full-Stack;Passionate%20about%20Smart%20Agents%20%2C%20Hackathons%20%26%20Building%20cool%20softwares" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -44,14 +44,14 @@ I'm a 2nd-year CSIT student passionate about building intelligent systems and we
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zainabkinza&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zainabkinza&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zainabkinza&show_icons=true&theme=tokyonight&title_color=c690ad&icon_color=c690ad&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zainabkinza&layout=compact&theme=tokyonight&title_color=c690ad&icon_color=c690ad&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zainabkinza&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zainabkinza&bg_color=00000000&color=c690ad&line=c690ad&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---

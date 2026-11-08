@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Exploring%20Artificial%20Intelligence%2C%20Machine%20Learning%20%26%20Full-Stack;Passionate%20about%20Smart%20Agents%20%2C%20Hackathons%20%26%20Building%20cool%20softwares" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 I'm a 2nd-year CSIT student passionate about building intelligent systems and web applications. Currently diving deep into AI/ML and full-stack development while strengthening my foundational Data Structures &amp; Algorithms.
 

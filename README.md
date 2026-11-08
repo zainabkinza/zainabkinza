@@ -1,20 +1,58 @@
-# About Me:
-Hi there! I'm Zainab Kinza<br><br>I'm a 2nd-year CSIT student passionate about building intelligent systems and web applications. Currently diving deep into AI/ML and full-stack development while strengthening my foundational Data Structures & Algorithms.<br><br>- 🔭 Currently working on: AI-driven applications and web development projects<br>- 🌱 Currently learning: DSA, Machine Learning, Deep Learning & Web Development<br>- 👯 Looking to collaborate on: AI/ML Projects, Open-Source Initiatives, Tech Community Collaborations and Hackathons<br>- ⚡ Fun fact:  Passionate about converting real-world problem statements into functional code!<br><br>🛠️ Tech Stack & Skills<br>Languages: C | C++ | Python  <br>Web Technologies: HTML5 | CSS  <br>Domains & Focus: Machine Learning, AI Engineering, Web Development, Data Structures & Algorithms<br>
+<p align="center">
+  <a href="https://github.com/zainabkinza">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Zainab%20Kinza" alt="Hello! I&#39;m Zainab Kinza" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Exploring%20Artificial%20Intelligence%2C%20Machine%20Learning%20%26%20Full-Stack;Passionate%20about%20Smart%20Agents%20%2C%20Hackathons%20%26%20Building%20cool%20softwares" alt="Typing headlines" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zainab-kinza-sheikh-ab4281385) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zainabkinza_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zainabkinza.s@yahoo.com) 
+### 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zainabkinza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zainabkinza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zainabkinza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a 2nd-year CSIT student passionate about building intelligent systems and web applications. Currently diving deep into AI/ML and full-stack development while strengthening my foundational Data Structures &amp; Algorithms.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zainabkinza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔭 &nbsp;I'm currently working on **AI-driven applications and web development projects**  
+🌱 &nbsp;I'm currently learning **DSA, Machine Learning, Deep Learning &amp; Web Development**  
+👯 &nbsp;I'm looking to collaborate on **AI/ML Projects, Open-Source Initiatives, Tech Community Collaborations and Hackathons**  
+⚡ &nbsp;Fun fact: **Passionate about converting real-world problem statements into functional code!**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zainab-kinza-sheikh-ab4281385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zainabkinza.s@yahoo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zainabkinza&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zainabkinza&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zainabkinza&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=zainabkinza&icon=0&color=5)](https://visitcount.itsvg.in)
-
+<p align="center"><i>⭐️ From <a href="https://github.com/zainabkinza">zainabkinza</a></i></p>
